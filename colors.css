@@ -1,0 +1,29 @@
+h1 {
+    color: blueviolet;
+    background-color: whitesmoke;
+    text-align: center;
+    font-weight: 300;
+    text-decoration: magenta underline;
+    text-decoration: plum wavy underline;
+
+    font-size: 80px;
+    font-family: Papyrus;
+}
+
+h2 {
+
+    color: pink;
+    background-color: bisque;
+}
+
+p {
+
+    color: magenta;
+    line-height: 2;
+
+}
+
+#cls {
+    color:blueviolet;
+    background-color: blanchedalmond;
+}

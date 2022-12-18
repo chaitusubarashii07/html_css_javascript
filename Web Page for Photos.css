@@ -1,0 +1,12 @@
+img {
+    width: 30%;
+    padding: 1.5%;
+}
+
+nav {
+    text-transform: uppercase;
+    border-bottom: 5px solid #FFF4F2;
+    width: 900px;
+    padding: 20px;
+    font-family: 'Playfair Display', serif;
+}
